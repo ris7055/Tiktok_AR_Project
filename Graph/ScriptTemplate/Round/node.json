@@ -1,0 +1,44 @@
+{
+	"name": "Round",
+	"id": "4bba441f-078a-ad53-baec-c0a5a153ae99",
+	"inputs": [
+		{
+			"name": "A",
+			"type": "Double",
+			"default_value": "0",
+			"dynamic": true,
+			"description": "The value to round",
+			"displayType": "Number",
+			"nameKey": "graph_round_input_a",
+			"descriptionKey": "graph_round_input_a_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"type": "Double",
+			"dynamic": true,
+			"description": "The rounded value of the input",
+			"displayType": "Number",
+			"nameKey": "graph_round_output_result",
+			"descriptionKey": "graph_round_output_result_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"js": "CGRound.js",
+	"version": "1.0.1",
+	"category": "Math",
+	"description": "Round the input value to the nearest integer.",
+	"supportedValueTypes": [
+		"Double"
+	],
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nameKey": "graph_round_name",
+	"categoryKey": "graph_category_math",
+	"descriptionKey": "graph_round_description"
+}

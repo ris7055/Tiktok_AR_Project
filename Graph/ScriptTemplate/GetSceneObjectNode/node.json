@@ -1,0 +1,40 @@
+{
+	"name": "Get Scene Object",
+	"id": "b6d30a76-eb5b-1617-25c7-83db8a0dabd9",
+	"inputs": [
+		{
+			"name": "Source",
+			"type": "Entity",
+			"visible": false,
+			"description": "Scene object source",
+			"displayType": "Scene Object",
+			"nameKey": "graph_get_scene_object_input_source",
+			"descriptionKey": "graph_get_scene_object_input_source_description",
+			"displayTypeKey": "graph_type_sceneobject"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Scene Object",
+			"type": "Entity",
+			"description": "Scene object reference output",
+			"displayType": "Scene Object",
+			"nameKey": "graph_get_scene_object_output_sceneobject",
+			"descriptionKey": "graph_get_scene_object_output_sceneobject_description",
+			"displayTypeKey": "graph_type_sceneobject"
+		}
+	],
+	"js": "CGGetSceneObjectNode.js",
+	"version": "1.0.0",
+	"builtinClass": "AMGObjectNode",
+	"category": "Scene Object",
+	"description": "Get scene object",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nameKey": "graph_get_scene_object_name",
+	"categoryKey": "graph_category_sceneobject",
+	"descriptionKey": "graph_get_scene_object_description"
+}

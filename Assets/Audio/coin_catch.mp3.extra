@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "50431a87-9ad9-002d-06c4-68a24cb0832b",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "coin_catch",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS",
+    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\Downloads\\coin_catch.mp3"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "d9ae0235-b78d-1139-b9e7-cb0c2d9bdb13",
+      "b": ""
+    },
+    "extraType": "ResItemVSSubgraph",
+    "name": "Play Audio After Collision",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": "",
+    "assetPackageID": "7270261243628388353",
+    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\AppData\\Roaming\\EffectHouse\\Instances\\Instance1\\EHpackage\\7270261243628388353\\Play Audio After Collision.ssubgraph",
+    "combinedWithNodeLibary": true,
+    "assetID": "7270261243628388353"
+  }
+]

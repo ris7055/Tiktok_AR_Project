@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "83a3baba-9664-31e9-7db5-163b69d5da8c",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "score board",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\Downloads\\duitnow salary tiktok filter assets\\score board.png"
+  }
+]

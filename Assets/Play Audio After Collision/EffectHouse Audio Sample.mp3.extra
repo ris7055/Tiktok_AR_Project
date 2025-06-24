@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "6951b3b5-3470-9df6-bdb3-20b8b195072e",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "EffectHouse Audio Sample",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS",
+    "assetPackageID": "7270261243628388353",
+    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\AppData\\Roaming\\EffectHouse\\Instances\\Instance1\\EHpackage\\7270261243628388353\\EffectHouse Audio Sample.mp3"
+  }
+]

@@ -1,0 +1,80 @@
+{
+	"name": "Gate",
+	"id": "6d8c6fff-f045-2306-6fb6-c542e4dc28d3",
+	"inputs": [
+		{
+			"name": "Enter",
+			"type": "Pulse",
+			"description": "The input execution that triggers this node",
+			"displayType": "Exec",
+			"nameKey": "graph_gate_input_enter",
+			"descriptionKey": "graph_gate_input_enter_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Open",
+			"type": "Pulse",
+			"description": "The execution that sets the gate status to open, allowing the Enter input to pass through to the Next output",
+			"displayType": "Exec",
+			"nameKey": "graph_gate_input_open",
+			"descriptionKey": "graph_gate_input_open_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Close",
+			"type": "Pulse",
+			"description": "The execution that sets the gate status to closed, stopping the Enter input from passing through to the Next output",
+			"displayType": "Exec",
+			"nameKey": "graph_gate_input_close",
+			"descriptionKey": "graph_gate_input_close_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Toggle",
+			"type": "Pulse",
+			"description": "The execution that reverses the current gate status. Open becomes closed and vice versa.",
+			"displayType": "Exec",
+			"nameKey": "graph_gate_input_toggle",
+			"descriptionKey": "graph_gate_input_toggle_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Start Closed",
+			"type": "Bool",
+			"default_value": true,
+			"description": "The starting status of the gate. If set to true the gate begins in a closed status.",
+			"displayType": "Boolean",
+			"nameKey": "graph_gate_input_startclosed",
+			"descriptionKey": "graph_gate_input_startclosed_description",
+			"displayTypeKey": "graph_type_boolean"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Next",
+			"type": "Pulse",
+			"description": "Execute the next node if the gate status is currently open. If the gate is closed, no execution is taken.",
+			"displayType": "Exec",
+			"nameKey": "graph_gate_output_next",
+			"descriptionKey": "graph_gate_output_next_description",
+			"displayTypeKey": "graph_type_exec"
+		}
+	],
+	"js": "CGGate.js",
+	"version": "1.0.0",
+	"nodeEvent": [
+		"beforeStart",
+		"resetOnRecord"
+	],
+	"category": "Control",
+	"description": "Perform like a gate to open or close. The current state of the gate (open or closed) determines whether the Enter input pass out of the Next output or not.",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"onlineWebsite": "graph_gate_website",
+	"nameKey": "graph_gate_name",
+	"categoryKey": "graph_category_control",
+	"descriptionKey": "graph_gate_description"
+}

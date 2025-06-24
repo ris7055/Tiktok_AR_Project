@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "1fe7d7d0-de16-f2ac-71eb-93051c1764f5",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "MonFalling_Sound",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS",
+    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\Downloads\\Tiktok Projects\\Money Catching game\\Assets\\Audio\\PenFalling_Sound.mp3"
+  }
+]

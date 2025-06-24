@@ -1,0 +1,52 @@
+{
+	"name": "Peek",
+	"id": "84CEBF56-60A1-4C3D-8064-4D10B9D91581",
+	"inputs": [
+		{
+			"name": "Data",
+			"description": "The input data",
+			"type": "Double",
+			"displayType": "Number",
+			"dynamic": true,
+			"nameKey": "graph_peek_input_data",
+			"descriptionKey": "graph_peek_input_data_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Data",
+			"description": "The value of the input data",
+			"type": "Double",
+			"displayType": "Number",
+			"dynamic": true,
+			"nameKey": "graph_peek_output_data",
+			"descriptionKey": "graph_peek_output_data_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"category": "Utility",
+	"description": "Monitor and display the value of the input in real time, or output the value to another node. Supported types: Number, Boolean, Vec2, Vec3, Vec4, Color, String, and Rect.",
+	"supportedValueTypes": [
+		"Double",
+		"Int",
+		"Bool",
+		"Vector2f",
+		"Vector3f",
+		"Vector4f",
+		"Color",
+		"String",
+		"Rect"
+	],
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"js": "CGPeek.js",
+	"version": "1.0.1",
+	"onlineWebsite": "graph_peek_website",
+	"nameKey": "graph_peek_name",
+	"categoryKey": "graph_category_utility",
+	"descriptionKey": "graph_peek_description"
+}

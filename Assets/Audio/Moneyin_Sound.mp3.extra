@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "b930668b-cf5b-f400-b725-112cc96c5e02",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Moneyin_Sound",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS",
+    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\Downloads\\Tiktok Projects\\Money Catching game\\Assets\\Audio\\Pen_Sound.mp3"
+  }
+]

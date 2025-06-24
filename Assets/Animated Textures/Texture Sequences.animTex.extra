@@ -1,0 +1,17 @@
+[
+  {
+    "guid": {
+      "a": "b85fed45-d73f-af4b-d5cb-50863b6dd857",
+      "b": ""
+    },
+    "extraType": "ResItemAnimatedTexture",
+    "name": "Texture Sequences",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\AppData\\Local\\Effect House\\Resources\\BuiltinResource\\assets\\jsAssets\\default.animTex"
+  }
+]

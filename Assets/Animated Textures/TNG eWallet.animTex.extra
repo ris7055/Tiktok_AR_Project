@@ -1,0 +1,17 @@
+[
+  {
+    "guid": {
+      "a": "14ea73bc-8f00-20fc-53c0-a833d5242c47",
+      "b": ""
+    },
+    "extraType": "ResItemAnimatedTexture",
+    "name": "TNG eWallet",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\AppData\\Local\\Effect House\\Resources\\BuiltinResource\\assets\\jsAssets\\default.animTex"
+  }
+]
