@@ -145,7 +145,7 @@ entities:
         guid: {a: 4343650638179403820, b: 6503956448986627738}
         enabled: true
         sharedMaterials:
-          - {localId: 1, path: material/5094911153386450795-6537112526516703402.material}
+          - {localId: 1, path: material/5467117060889578674-4494452318917738394.material}
         sortingOrder: 0
         autoSortingOrder: true
         useFrustumCulling: true
@@ -259,7 +259,7 @@ entities:
         guid: {a: 10971774683603173107, b: 5486962411806183326}
         enabled: true
         sharedMaterials:
-          - {localId: 1, path: material/5635714747211913216-11817546958876814499.material}
+          - {localId: 1, path: material/5742085332294521232-4654664158034023081.material}
         sortingOrder: 2
         autoSortingOrder: true
         useFrustumCulling: true
@@ -312,7 +312,7 @@ entities:
         guid: {a: 11980782097347565845, b: 1961578553730832018}
         enabled: true
         sharedMaterials:
-          - {localId: 1, path: material/5383434021179304995-5013938482542127495.material}
+          - {localId: 1, path: material/4612318283675043639-9205631194713831333.material}
         sortingOrder: 3
         autoSortingOrder: true
         useFrustumCulling: true
@@ -590,7 +590,7 @@ entities:
           shadowEnable: false
           shadowSmooth: 0
           shadowSmoothVersion: 0
-          sortingOrder: 7
+          sortingOrder: 6
           textAdaptiveCanvasEnabled: false
           textinputLock: false
           underline: false
@@ -712,7 +712,7 @@ entities:
           shadowEnable: false
           shadowSmooth: 0
           shadowSmoothVersion: 0
-          sortingOrder: 11
+          sortingOrder: 9
           textAdaptiveCanvasEnabled: false
           textinputLock: false
           underline: false
@@ -803,7 +803,7 @@ entities:
         guid: {a: 5544816676011835265, b: 9769125664078867098}
         enabled: true
         sharedMaterials:
-          - {localId: 1, path: material/5160871597895634247-7883565869718168966.material}
+          - {localId: 1, path: material/4933668205140904725-242662951175281282.material}
         sortingOrder: 4
         autoSortingOrder: true
         useFrustumCulling: true
@@ -842,8 +842,8 @@ entities:
         guid: {a: 5680178841824302175, b: 16636027972413905074}
         enabled: true
         sharedMaterials:
-          - {localId: 1, path: material/5066706978733610737-16369251390701394102.material}
-        sortingOrder: 9
+          - {localId: 1, path: material/4999157314734565634-14824180261549105086.material}
+        sortingOrder: 7
         autoSortingOrder: true
         useFrustumCulling: true
         receiveShadow: true
@@ -889,8 +889,8 @@ entities:
         guid: {a: 5439539073634345059, b: 16121835426674262459}
         enabled: true
         sharedMaterials:
-          - {localId: 1, path: material/5716835430104347031-15243446801798502037.material}
-        sortingOrder: 10
+          - {localId: 1, path: material/5379123285638813597-6192140413486232761.material}
+        sortingOrder: 8
         autoSortingOrder: true
         useFrustumCulling: true
         receiveShadow: true
@@ -928,8 +928,8 @@ entities:
         guid: {a: 5756385530551189904, b: 18057050331116239037}
         enabled: true
         sharedMaterials:
-          - {localId: 1, path: material/5672268144484428506-18165062445572403877.material}
-        sortingOrder: 13
+          - {localId: 1, path: material/4862317326292091257-13170520856277567919.material}
+        sortingOrder: 10
         autoSortingOrder: true
         useFrustumCulling: true
         receiveShadow: true
@@ -967,8 +967,8 @@ entities:
         guid: {a: 5421760094411709331, b: 12382764763452099714}
         enabled: true
         sharedMaterials:
-          - {localId: 1, path: material/4690987880041142991-9362956423241037245.material}
-        sortingOrder: 14
+          - {localId: 1, path: material/4619395552468354443-9260719690638040491.material}
+        sortingOrder: 11
         autoSortingOrder: true
         useFrustumCulling: true
         receiveShadow: true
