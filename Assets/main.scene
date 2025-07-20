@@ -144,8 +144,6 @@ entities:
         name: !<str> ""
         guid: {a: 4343650638179403820, b: 6503956448986627738}
         enabled: true
-        sharedMaterials:
-          - {localId: 1, path: material/5467117060889578674-4494452318917738394.material}
         sortingOrder: 0
         autoSortingOrder: true
         useFrustumCulling: true
@@ -258,8 +256,6 @@ entities:
         name: !<str> ""
         guid: {a: 10971774683603173107, b: 5486962411806183326}
         enabled: true
-        sharedMaterials:
-          - {localId: 1, path: material/5742085332294521232-4654664158034023081.material}
         sortingOrder: 2
         autoSortingOrder: true
         useFrustumCulling: true
@@ -311,8 +307,6 @@ entities:
         name: !<str> ""
         guid: {a: 11980782097347565845, b: 1961578553730832018}
         enabled: true
-        sharedMaterials:
-          - {localId: 1, path: material/4612318283675043639-9205631194713831333.material}
         sortingOrder: 3
         autoSortingOrder: true
         useFrustumCulling: true
@@ -802,8 +796,6 @@ entities:
         name: !<str> ""
         guid: {a: 5544816676011835265, b: 9769125664078867098}
         enabled: true
-        sharedMaterials:
-          - {localId: 1, path: material/4933668205140904725-242662951175281282.material}
         sortingOrder: 4
         autoSortingOrder: true
         useFrustumCulling: true
@@ -841,8 +833,6 @@ entities:
         name: !<str> ""
         guid: {a: 5680178841824302175, b: 16636027972413905074}
         enabled: true
-        sharedMaterials:
-          - {localId: 1, path: material/4999157314734565634-14824180261549105086.material}
         sortingOrder: 7
         autoSortingOrder: true
         useFrustumCulling: true
@@ -888,8 +878,6 @@ entities:
         name: !<str> ""
         guid: {a: 5439539073634345059, b: 16121835426674262459}
         enabled: true
-        sharedMaterials:
-          - {localId: 1, path: material/5379123285638813597-6192140413486232761.material}
         sortingOrder: 8
         autoSortingOrder: true
         useFrustumCulling: true
@@ -927,8 +915,6 @@ entities:
         name: !<str> ""
         guid: {a: 5756385530551189904, b: 18057050331116239037}
         enabled: true
-        sharedMaterials:
-          - {localId: 1, path: material/4862317326292091257-13170520856277567919.material}
         sortingOrder: 10
         autoSortingOrder: true
         useFrustumCulling: true
@@ -937,7 +923,7 @@ entities:
           __class: LightProbeBlendMode
           value: OFF
         entirePingPong: false
-        texture: {localId: 1, path: 78d13e8d-3f12-a0e3-0ce7-a50c5fbbf168--78d13e8d-3f12-a0e3-0ce7-a50c5fbbf168.png}
+        texture: {localId: 1, path: 0f83130e-999c-deea-d918-9baa0b860bd4--0f83130e-999c-deea-d918-9baa0b860bd4.png}
         opacity: 1
         color: {r: 1, g: 1, b: 1, a: 1}
         size: {x: 10, y: 10}
@@ -966,8 +952,6 @@ entities:
         name: !<str> ""
         guid: {a: 5421760094411709331, b: 12382764763452099714}
         enabled: true
-        sharedMaterials:
-          - {localId: 1, path: material/4619395552468354443-9260719690638040491.material}
         sortingOrder: 11
         autoSortingOrder: true
         useFrustumCulling: true

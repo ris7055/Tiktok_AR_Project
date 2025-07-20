@@ -1,11 +1,11 @@
 [
   {
     "guid": {
-      "a": "39b180b2-7d56-dcd4-e234-0b07508c2356",
+      "a": "0f83130e-999c-deea-d918-9baa0b860bd4",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "100 rm",
+    "name": "After msg",
     "expandInPanel": false,
     "objGuid": "",
     "rttiType": "Texture",
@@ -23,6 +23,6 @@
     "compressionType": 0,
     "quality": 0,
     "maxResolution": 512,
-    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\Downloads\\Phone Screen 3D\\100 rm.png"
+    "resourceFilePath": "C:\\Users\\MD Raffaul Islam\\Downloads\\After msg (2).png"
   }
 ]

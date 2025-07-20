@@ -47,4 +47,4 @@ wrapModeR:
   __class: WrapMode
   value: CLAMP
 maxAnisotropy: 1
-internalTexture: {localId: 1, path: Library/Artifact/fb432631-801a-a5fa-c804-494fe1ba51b8/2.png}
+internalTexture: {localId: 1, path: Library/Artifact/fb432631-801a-a5fa-c804-494fe1ba51b8/0.png}

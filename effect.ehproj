@@ -1,6 +1,6 @@
 {
   "name": "Untitled",
-  "lastModified": "Sat, 28 Jun 2025 18:17:21 GMT",
+  "lastModified": "Wed, 16 Jul 2025 20:29:19 GMT",
   "version": "4.15.0",
   "internalVersion": "2.9.0",
   "toolName": "Effect House",
@@ -77,9 +77,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 40362723713,
-  "durationCreation": 148220944,
-  "durationBackground": 106337094,
+  "durationToCreate": 41925841894,
+  "durationCreation": 155872594,
+  "durationBackground": 108686659,
   "autoResetEffect": false,
   "effectHint": "",
   "templateID": "templateID_none",
@@ -91,9 +91,9 @@
   "retouchBuiltInSetting": false,
   "perfTested": false,
   "selectedIdList": [
-    "amz:Guid(16883969964424682641, 1890519407749658536)"
+    "amz:Guid(5206759261973734491, 13366786600642549683)"
   ],
-  "lastSceneView": 1,
+  "lastSceneView": 0,
   "LastVideoInput": {
     "type": "preview_face",
     "name": "preview_face_headturned||2",
@@ -103,10 +103,10 @@
   "fromNewUserGuide": false,
   "soundStartTime": 0,
   "soundSelectedDuration": 0,
-  "effectSize": 2065949,
+  "effectSize": 2029175,
   "effectPackagePath": "C:\\Users\\MD Raffaul Islam\\AppData\\Roaming\\EffectHouse\\Instances\\Instance1\\Submit\\package\\effect.zip",
   "effectUploadResult": {
-    "uri": "/obj/tiktok-effect-public-us/effects/effect/nS9Ujz9djNKy6L3qcEVc2x_cb6a9ef3962a08fd5990b19592f62190",
-    "url": "https://lf16-effect.tiktokcdn.com/obj/tiktok-effect-public-us/effects/effect/nS9Ujz9djNKy6L3qcEVc2x_cb6a9ef3962a08fd5990b19592f62190"
+    "uri": "/obj/tiktok-effect-public-us/effects/effect/pXJCSyvMjLro9zxu3idC6c_6a38c40a4a167e0c2c1690ef9a6dfba6",
+    "url": "https://lf16-effect.tiktokcdn.com/obj/tiktok-effect-public-us/effects/effect/pXJCSyvMjLro9zxu3idC6c_6a38c40a4a167e0c2c1690ef9a6dfba6"
   }
 }

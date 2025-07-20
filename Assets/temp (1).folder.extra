@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "8047a627-eb1d-6c4b-3304-64dc2455a224",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "temp (1).folder",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]
