@@ -12,8 +12,10 @@ The main component of this game was developed using a part Ai which is Augmented
 4.Use front camera and choose 60 seconds
 5.Start recording and Enjoy!
 
- 
- 
- 
+ # Demo video:
+
+https://github.com/user-attachments/assets/064426e0-7cce-45f2-a376-1ff5ba9a4433
+
+
  
  ___Contributed by MD.Raffaul Islam
